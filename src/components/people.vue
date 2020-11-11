@@ -2,12 +2,13 @@
   <div class="people">
     <div class="n-elm n-ele-in-0">
       <h3 class="nm">With Best Compliments From</h3>
-      <p>Yaladagi, Bhadrappagol & Rabakavi family</p>
-      <!-- <p>Shanta Choudhari</p>
+      <!-- <p>Yaladagi, Bhadrappagol & Rabakavi family</p> -->
+      <p>Ramesh Choudhari</p>
+      <p>Shanta Choudhari</p>
       <p>Halappa Choudhari</p>
       <p>Sonavva Choudhari</p>
-      <p>Bharatesh Choudhari</p>
-      <p>Chetan Choudhari</p> -->
+      <p>Vivekanand Choudhari</p>
+      <p>Chetan Choudhari</p>
     </div>
     <!-- <div class="n-elm n-ele-in-0">
       <h3 class="nm">स्वागतकांक्षी</h3>

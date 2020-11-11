@@ -8,9 +8,9 @@
         <div class=" family bride">
           <img class="n-elm n-ele-in-0 " src="../assets/groom-2.png" alt="">
           <div class="fadeInLeft">
-             <b>Chi. Ry. Shrishail (Mallu)</b>
+             <b>Chi. Ry. Bharatesh</b>
              <br>
-             <small>S/o Sri. Goudappa M Bhadrappagol & Smt. Satyakka G. Bhadrappagol</small>
+             <small>S/o Sri. Ramesh H. Choudhari & Smt. Shanta R. Choudhari</small>
           </div>
         </div>
       </div>
@@ -18,9 +18,9 @@
       <div>
         <div class="family groom">
           <div class="fadeInLeft">
-             <b>Chi. Sou. Uma (Preethi)</b>
+             <b>Chi. Sou. Krutika</b>
              <br>
-             <small>Sri. Prabhu C. Rabakavi & Smt. Sunanda P. Rabakavi</small>
+             <small>Sri. Ganeshrao A. Savant & Smt. Chitra G. Savant</small>
           </div>
           <img class="n-elm n-ele-in-0 " src="../assets/bride-2.png" alt="">
         </div>

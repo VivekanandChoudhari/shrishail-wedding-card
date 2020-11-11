@@ -4,10 +4,10 @@
       <div class="namste"></div>
       <div>
         <h1 class=" curve">Invitation</h1>
-        <p class=" curve"><b>Sri. Goudappa M Bhadrappagol & Smt. Satyakka G. Bhadrappagol</b></p>
+        <p class=" curve"><b>Sri. Ramesh H. Choudhari & Smt. Shanta R. Choudhari</b></p>
         <small>
-          <p class="nm"><b>Add:</b> Shegunashi, Athani Talu, Belagavi Dist.</p>
-          <p class="nm">Cordially invites you to grace the wedding of their son</p>
+          <p class="nm"><b>Add:</b> Shiragur, Raibag Talu, Belagavi Dist.</p>
+          <p class="nm"><b>Cordially invites you to grace the wedding of their son</b></p>
         </small>
       </div>
     </div>
@@ -17,9 +17,10 @@
         <h1 class=" curve">Date & Venue</h1>
         <small>
           <p class="nm">
-            Thursday, 26-11-2020 on 12:20PM,
+            Wednesday, 09-12-2020 on 10:30AM,
+            Sri Shivashakti Kalyana manatapa new Sayyaji
+            Rao Road, Near Bamboo Bazar, Mysore.
             <br>
-           Shree Kamleshwar Saavayav Farm house ( Yaladagi n Bhadrappagol tota) Shegunsi.
           </p>
         </small>
       </div>

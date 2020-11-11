@@ -5,24 +5,24 @@
         <img src="../assets/subh-vivah-logo.png" height="100%" alt="">
       </div>
       <div class="weds curve">
-        <p class="nm" style="text-align: left;">Shrishail</p>
+        <p class="nm" style="text-align: left;">Bharatesh</p>
         <p class="nm" style="text-align: center; font-size: 18px; color: #4361ee">weds</p>
-        <p class="nm" style="text-align: right">Uma </p>
+        <p class="nm" style="text-align: right">Krutika </p>
       </div>
     </div>
     <div class="n-elm n-ele-0 couple-pic">
       <div class="image"></div>
     </div>
-    <!-- <div class="n-elm n-ele-in-0 mantra">
+    <div class="n-elm n-ele-in-0 mantra">
         वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।
         <br>
         निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥
-      </div> -->
-       <div class="n-elm n-ele-in-0 mantra">
+      </div>
+       <!-- <div class="n-elm n-ele-in-0 mantra">
        <P style="font-size:12px;font-weight:600;">VAKRATUNDA MAHAKAYA SURYAKOTI SAMAPRABHA</P>
         <br>
        <P style="font-size:12px;font-weight:600;">NIRVIGHNAM KURUMEDEVA SARVAKARESHU SARVADA</P>
-      </div>
+      </div> -->
   </div>
 </template>
 
